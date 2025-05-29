@@ -31,13 +31,13 @@ pip install numpy matplotlib
 2. Navigate to the project directory:
 
    ```bash
-   cd missile-trajectory-simulation
+   cd Real-Time-Missile-Trajectory-Visualizer
    ```
 
 3. Run the simulation:
 
    ```bash
-   python test.py
+   python missileTrajectorySimulation.py
    ```
 
 4. Use the sliders to adjust the drag coefficient, thrust, and gravity during the simulation.
