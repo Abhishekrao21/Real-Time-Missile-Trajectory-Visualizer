@@ -25,7 +25,7 @@ pip install numpy matplotlib
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/<username>/missile-trajectory-simulation.git
+   git clone https://github.com/Abhishekrao21/Real-Time-Missile-Trajectory-Visualizer.git
    ```
 
 2. Navigate to the project directory:
